@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://watchdog.pickdesk.online/sitemap.xml
+Sitemap: https://watchdog.pickdesk.online/sitemap-pages.xml
