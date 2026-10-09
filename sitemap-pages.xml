@@ -325,9 +325,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://watchdog.pickdesk.online/posts/major_compare-003.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
 </urlset>
